@@ -20,3 +20,9 @@
     font-family: "Roboto", sans-serif;
 }
 
+.yo.banner-bg{
+    background-image: url(../../images/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
